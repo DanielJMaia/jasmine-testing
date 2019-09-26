@@ -1,0 +1,1 @@
+This serves to learn how test driven development using the Jasmine Framework. I'll be working alongside the code institute web-development course, the "Interactive Frontend Development" sections about Jasmine.
